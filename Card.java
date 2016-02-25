@@ -46,7 +46,7 @@ public class Card {
 	public String suit() {
 		/* *** TO BE IMPLEMENTED IN ACTIVITY 1 *** */
 		return suit;
-   }
+   } 
 
 	/**
 	 * Accesses this <code>Card's</code> rank.
